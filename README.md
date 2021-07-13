@@ -1,4 +1,5 @@
 Hi I like networking c# visual studio program writing and hardware
+I use Visual studio 2019 as my IDE.
 
 If you want to reach me please send an email to 
 numaticjoemailbox@gmail.com
