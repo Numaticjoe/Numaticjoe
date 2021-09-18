@@ -1,5 +1,5 @@
 Hi I like networking c# visual studio program writing and hardware
-I use Visual studio 2010 as my IDE. (outdated i know lol anything newer is painfully slow to use)
+I use Visual studio 2017 Express as my IDE.
 
 If you want to reach me please send an email to 
 numaticjoemailbox@gmail.com
