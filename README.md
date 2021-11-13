@@ -11,7 +11,7 @@ I'm from the UK so my time zone might be different to yours so I might reply to 
 
 I am currently thinking of a program to make. This is why so many projects have been cancelled. 
 I want to make a file manager and an nes emulator. 
-Hopefully one of these projects will come as soon as I get my pc back to windows 10 from 11
+Good news! I have windows 10 again!
 
 
 Have a nice day! :) 
