@@ -12,6 +12,8 @@ I'm from the UK so my time zone might be different to yours so I might reply to 
 
 I want to make an emulator but don't know how.
 
+I plan to develop in C# and .net 
+I am interested in learning C++ 
 
 Have a nice day! :) 
 
