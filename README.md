@@ -14,6 +14,7 @@ I want to make an emulator but don't know how.
 
 I plan to develop in C# and .net 
 I am interested in learning C++ 
+I'm not learning python as I have found its not useful for me.
 
 Have a nice day! :) 
 
